@@ -1,11 +1,11 @@
 name: ngen
-description: Starter Code generator for Angular Dart
+description: CLI tool to generate angular components from templates
 
 executables:
   ngen: main
 
 version: 0.0.1
-# homepage: https://www.example.com
+homepage: https://github.com/StorminGorman/ngen.git
 author: Brian Gorman <brian@gorbotics.com>
 
 environment:
