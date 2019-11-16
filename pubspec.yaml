@@ -1,0 +1,20 @@
+name: ngen
+description: Starter Code generator for Angular Dart
+
+executables:
+  ngen: main
+
+version: 0.0.1
+# homepage: https://www.example.com
+author: Brian Gorman <brian@gorbotics.com>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  args: ^1.5.1
+#  path: ^1.4.1
+
+dev_dependencies:
+  pedantic: ^1.0.0
+  test: ^1.0.0

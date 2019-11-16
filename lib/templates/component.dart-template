@@ -1,0 +1,18 @@
+import 'package:angular/angular.dart';
+
+/// [$className] 
+///
+/// Example Usage:
+/// ```html
+/// <$tagName></$tagName>
+/// ```
+///
+@Component(
+  selector: '$tagName',
+  styleUrls: ['$fileName.css'],
+  templateUrl: '$fileName.html',
+  directives: [],
+)
+class $className {
+
+}
